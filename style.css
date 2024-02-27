@@ -1,0 +1,45 @@
+h1 {
+    font-family: "Zilla Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+h1 {font-size: 300%;
+    color: midnightblue;
+}
+
+h1 {text-align: center;
+}
+h2 {text-align: center;
+}
+h3 {text-align: center;
+}
+
+h2 {
+    font-family: "Yesteryear", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h2 {font-size: 350%;
+}
+
+h1 {border-style: solid;
+    border-color: lightseagreen;
+    border-width: 4px;
+}
+
+h1 {margin-left: 20%;
+}
+
+h1 {padding-left: 20%;
+}
+
+.parte1 {border-style: solid;
+         border-color: yellow;
+         border-width: 8px;
+}
+
+.parte1 {background-color: lime;
+}
+
+
